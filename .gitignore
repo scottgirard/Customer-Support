@@ -31,4 +31,4 @@ build/
 .vscode/
 
 ### protect secrets ###
-application.properties
+src/main/resources/application.properties
